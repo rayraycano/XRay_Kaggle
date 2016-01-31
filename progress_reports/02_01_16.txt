@@ -1,0 +1,16 @@
+Raymond Cano
+Xilin Liu
+
+Team X-RayFirst Progress Report
+
+We've yet to begin any implementations. We downloaded the data set off kaggle
+(It's massive!!!) and began looking into some methods of approaching this 
+problem. On the open kaggle competition, many of the top results utilized 
+convolutional neural nets to accurately classify the pictures, with the top 
+entries scoring lower error percentages than humans. The links for the 
+reading we've done so far are given below. On fastML, there's an article on 
+doing object recognition with Alex Krizhevsky's cuda-convnet,
+(http://fastml.com/object-recognition-in-images-with-cuda-convnet/) which we 
+could possible end up using for our project once we gain some more intutions
+about how CNNs work and how we can implement and improve on their initial
+implementation. 
